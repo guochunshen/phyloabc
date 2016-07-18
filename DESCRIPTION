@@ -1,0 +1,11 @@
+Package: phyloabc
+Title: A simple interface to create a proximate phylogenetic tree from species list
+Version: 0.0.0.9000
+Authors@R: person("Guochun", "Shen", email = "gcshen@des.ecnu.edu.cn", role = c("aut", "cre"))
+Description: Powered by the phylomatic, phylocom, brranching and apglist softwares and R packages, 
+I present an easy interface for generating a phylogenetic tree with branch length from a given
+ list. 
+Depends: R (>= 3.2.4)
+License: GPL-2
+Encoding: UTF-8
+LazyData: true
